@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-143324-w548",
+      "title": "Seth Jammer",
+      "commanders": [
+        "Seth Jammer"
+      ],
+      "guild": {
+        "id": "788A5115-7B02-EC11-81B2-A840610878B3",
+        "name": "Knights Of The Silver Challice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-08-26T18:33:24.000Z",
+      "dateEnd": "2026-08-26T20:01:29.827Z",
+      "dateLabel": "8/26/2026, 2:33:24 PM - 8/26/2026, 4:01:29 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260826-143324-w548",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 4
+      }
+    },
+    {
       "id": "20260825-142158-cugg",
       "title": "Nathan Heartstone",
       "commanders": [
