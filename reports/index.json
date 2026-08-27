@@ -1,0 +1,40 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260825-142158-cugg",
+      "title": "Nathan Heartstone",
+      "commanders": [
+        "Nathan Heartstone"
+      ],
+      "guild": {
+        "id": "EB6B6211-30DC-EC11-81A9-8FB5CFBE7766",
+        "name": "Knights Of The Silver Chaliice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-08-25T18:21:58.000Z",
+      "dateEnd": "2026-08-25T19:49:14.779Z",
+      "dateLabel": "8/25/2026, 2:21:58 PM - 8/25/2026, 3:49:14 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260825-142158-cugg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 6
+      }
+    }
+  ]
+}
