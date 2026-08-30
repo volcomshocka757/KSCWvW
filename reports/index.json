@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-233456-n383",
+      "title": "Ben From The South, Sùnblind",
+      "commanders": [
+        "Ben From The South",
+        "Sùnblind"
+      ],
+      "guild": {
+        "id": "883A6BAD-038A-F111-BB16-027555657585",
+        "name": "Mechanics R For Cars",
+        "tag": "BEEP"
+      },
+      "dateStart": "2026-08-30T03:34:56.000Z",
+      "dateEnd": "2026-08-30T04:33:41.027Z",
+      "dateLabel": "8/29/2026, 11:34:56 PM - 8/30/2026, 12:33:41 AM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260829-233456-n383",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260827-141021-4qex",
       "title": "Sigegar Englisson",
       "commanders": [
