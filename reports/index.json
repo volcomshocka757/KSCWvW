@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-203206-7e55",
+      "title": "Galthar Oneclaw",
+      "commanders": [
+        "Galthar Oneclaw"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-01T00:32:06.000Z",
+      "dateEnd": "2026-09-01T03:01:16.493Z",
+      "dateLabel": "8/31/2026, 8:32:06 PM - 8/31/2026, 11:01:16 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260831-203206-7e55",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260829-233456-n383",
       "title": "Ben From The South, Sùnblind",
       "commanders": [
