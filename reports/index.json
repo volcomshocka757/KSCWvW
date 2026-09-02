@@ -1,144 +1,187 @@
-[
-  {
-    "id": "20260831-203206-7e55",
-    "title": "Galthar Oneclaw",
-    "commanders": [
-      "Galthar Oneclaw"
-    ],
-    "guild": {
-      "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
-      "name": "K S C Legionaires",
-      "tag": "KSC"
-    },
-    "dateStart": "2026-09-01T00:32:06.000Z",
-    "dateEnd": "2026-09-01T03:01:16.493Z",
-    "dateLabel": "8/31/2026, 8:32:06 PM - 8/31/2026, 11:01:16 PM",
-    "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260831-203206-7e55",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 8,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 5,
-          "color": "#ef4444"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260901-144834-zz7o",
+      "title": "Seth Jammer",
+      "commanders": [
+        "Seth Jammer"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260827-141021-4qex",
-    "title": "Sigegar Englisson",
-    "commanders": [
-      "Sigegar Englisson"
-    ],
-    "guild": {
-      "id": "8C80992A-8D59-49E7-B1F8-8E55BE8A5ABA",
-      "name": "Knights Of The Silver Chalice",
-      "tag": "KSC"
+      "guild": {
+        "id": "788A5115-7B02-EC11-81B2-A840610878B3",
+        "name": "Knights Of The Silver Challice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-01T18:48:34.000Z",
+      "dateEnd": "2026-09-01T20:03:31.614Z",
+      "dateLabel": "9/1/2026, 2:48:34 PM - 9/1/2026, 4:03:31 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260901-144834-zz7o",
+      "summary": {
+        "borderlandsPct": 0.5454545454545454,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 4
+      }
     },
-    "dateStart": "2026-08-27T18:10:21.000Z",
-    "dateEnd": "2026-08-27T20:08:27.299Z",
-    "dateLabel": "8/27/2026, 2:10:21 PM - 8/27/2026, 4:08:27 PM",
-    "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260827-141021-4qex",
-    "summary": {
-      "borderlandsPct": 0.8421052631578947,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 10,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 6,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 3,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260831-203206-7e55",
+      "title": "Galthar Oneclaw",
+      "commanders": [
+        "Galthar Oneclaw"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 9
-    }
-  },
-  {
-    "id": "20260826-143324-w548",
-    "title": "Seth Jammer",
-    "commanders": [
-      "Seth Jammer"
-    ],
-    "guild": {
-      "id": "788A5115-7B02-EC11-81B2-A840610878B3",
-      "name": "Knights Of The Silver Challice",
-      "tag": "KSC"
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-01T00:32:06.000Z",
+      "dateEnd": "2026-09-01T03:01:16.493Z",
+      "dateLabel": "8/31/2026, 8:32:06 PM - 8/31/2026, 11:01:16 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260831-203206-7e55",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 20
+      }
     },
-    "dateStart": "2026-08-26T18:33:24.000Z",
-    "dateEnd": "2026-08-26T20:01:29.827Z",
-    "dateLabel": "8/26/2026, 2:33:24 PM - 8/26/2026, 4:01:29 PM",
-    "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260826-143324-w548",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 8,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260827-141021-4qex",
+      "title": "Sigegar Englisson",
+      "commanders": [
+        "Sigegar Englisson"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 4
-    }
-  },
-  {
-    "id": "20260825-142158-cugg",
-    "title": "Nathan Heartstone",
-    "commanders": [
-      "Nathan Heartstone"
-    ],
-    "guild": {
-      "id": "EB6B6211-30DC-EC11-81A9-8FB5CFBE7766",
-      "name": "Knights Of The Silver Chaliice",
-      "tag": "KSC"
+      "guild": {
+        "id": "8C80992A-8D59-49E7-B1F8-8E55BE8A5ABA",
+        "name": "Knights Of The Silver Chalice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-08-27T18:10:21.000Z",
+      "dateEnd": "2026-08-27T20:08:27.299Z",
+      "dateLabel": "8/27/2026, 2:10:21 PM - 8/27/2026, 4:08:27 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260827-141021-4qex",
+      "summary": {
+        "borderlandsPct": 0.8421052631578947,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 9
+      }
     },
-    "dateStart": "2026-08-25T18:21:58.000Z",
-    "dateEnd": "2026-08-25T19:49:14.779Z",
-    "dateLabel": "8/25/2026, 2:21:58 PM - 8/25/2026, 3:49:14 PM",
-    "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260825-142158-cugg",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 8,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260826-143324-w548",
+      "title": "Seth Jammer",
+      "commanders": [
+        "Seth Jammer"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 6
+      "guild": {
+        "id": "788A5115-7B02-EC11-81B2-A840610878B3",
+        "name": "Knights Of The Silver Challice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-08-26T18:33:24.000Z",
+      "dateEnd": "2026-08-26T20:01:29.827Z",
+      "dateLabel": "8/26/2026, 2:33:24 PM - 8/26/2026, 4:01:29 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260826-143324-w548",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 4
+      }
+    },
+    {
+      "id": "20260825-142158-cugg",
+      "title": "Nathan Heartstone",
+      "commanders": [
+        "Nathan Heartstone"
+      ],
+      "guild": {
+        "id": "EB6B6211-30DC-EC11-81A9-8FB5CFBE7766",
+        "name": "Knights Of The Silver Chaliice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-08-25T18:21:58.000Z",
+      "dateEnd": "2026-08-25T19:49:14.779Z",
+      "dateLabel": "8/25/2026, 2:21:58 PM - 8/25/2026, 3:49:14 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260825-142158-cugg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 6
+      }
     }
-  }
-]
+  ]
+}
