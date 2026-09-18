@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260917-135349-p45t",
+      "title": "Seth Jammer",
+      "commanders": [
+        "Seth Jammer"
+      ],
+      "guild": {
+        "id": "EB6B6211-30DC-EC11-81A9-8FB5CFBE7766",
+        "name": "Knights Of The Silver Chaliice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-17T17:53:49.000Z",
+      "dateEnd": "2026-09-17T19:57:25.934Z",
+      "dateLabel": "9/17/2026, 1:53:49 PM - 9/17/2026, 3:57:25 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260917-135349-p45t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260916-143916-fudb",
       "title": "Sigegar Englisson",
       "commanders": [
