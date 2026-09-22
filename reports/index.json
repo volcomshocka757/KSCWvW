@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-203749-bb3n",
+      "title": "Galthar Oneclaw",
+      "commanders": [
+        "Galthar Oneclaw"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-22T00:37:49.000Z",
+      "dateEnd": "2026-09-22T02:18:15.860Z",
+      "dateLabel": "9/21/2026, 8:37:49 PM - 9/21/2026, 10:18:15 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260921-203749-bb3n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260917-135349-p45t",
       "title": "Seth Jammer",
       "commanders": [
