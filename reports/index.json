@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260925-001045-yj5u",
+      "title": "Akamenos Gilthari",
+      "commanders": [
+        "Akamenos Gilthari"
+      ],
+      "guild": {
+        "id": "788A5115-7B02-EC11-81B2-A840610878B3",
+        "name": "Knights Of The Silver Challice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-25T04:10:45.000Z",
+      "dateEnd": "2026-09-25T04:38:16.784Z",
+      "dateLabel": "9/25/2026, 12:10:45 AM - 9/25/2026, 12:38:16 AM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260925-001045-yj5u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 96,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260924-135935-6e8u",
       "title": "Sigegar Englisson",
       "commanders": [
