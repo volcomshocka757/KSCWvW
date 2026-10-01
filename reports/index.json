@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260928-141730-lgr4",
+      "title": "Archer X Swiftarrow, Morthosgurth",
+      "commanders": [
+        "Archer X Swiftarrow",
+        "Morthosgurth"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-28T18:17:30.000Z",
+      "dateEnd": "2026-09-28T19:47:10.399Z",
+      "dateLabel": "9/28/2026, 2:17:30 PM - 9/28/2026, 3:47:10 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260928-141730-lgr4",
+      "summary": {
+        "borderlandsPct": 0.17857142857142858,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260925-001045-yj5u",
       "title": "Akamenos Gilthari",
       "commanders": [
