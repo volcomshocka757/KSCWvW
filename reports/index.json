@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260930-145853-1zcn",
+      "title": "Seth Jammer",
+      "commanders": [
+        "Seth Jammer"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-30T18:58:53.000Z",
+      "dateEnd": "2026-09-30T20:01:10.292Z",
+      "dateLabel": "9/30/2026, 2:58:53 PM - 9/30/2026, 4:01:10 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20260930-145853-1zcn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260928-141730-lgr4",
       "title": "Archer X Swiftarrow, Morthosgurth",
       "commanders": [
