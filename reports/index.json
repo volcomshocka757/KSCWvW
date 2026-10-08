@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261007-225416-h7bu",
+      "title": "Galthar Oneclaw",
+      "commanders": [
+        "Galthar Oneclaw"
+      ],
+      "guild": {
+        "id": "788A5115-7B02-EC11-81B2-A840610878B3",
+        "name": "Knights Of The Silver Challice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-10-08T02:54:16.000Z",
+      "dateEnd": "2026-10-08T03:39:25.120Z",
+      "dateLabel": "10/7/2026, 10:54:16 PM - 10/7/2026, 11:39:25 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261007-225416-h7bu",
+      "summary": {
+        "borderlandsPct": 0.06451612903225806,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 58,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20261007-140515-tef8",
       "title": "Vodral",
       "commanders": [
