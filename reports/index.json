@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261006-143028-4d5s",
+      "title": "Cole Eris",
+      "commanders": [
+        "Cole Eris"
+      ],
+      "guild": {
+        "id": "8C80992A-8D59-49E7-B1F8-8E55BE8A5ABA",
+        "name": "Knights Of The Silver Chalice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-10-06T18:30:28.000Z",
+      "dateEnd": "2026-10-06T19:13:33.424Z",
+      "dateLabel": "10/6/2026, 2:30:28 PM - 10/6/2026, 3:13:33 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261006-143028-4d5s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20261002-141532-ul8p",
       "title": "Sigegar Englisson",
       "commanders": [
