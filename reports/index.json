@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261007-140515-tef8",
+      "title": "Vodral",
+      "commanders": [
+        "Vodral"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-10-07T18:05:15.000Z",
+      "dateEnd": "2026-10-07T19:44:16.172Z",
+      "dateLabel": "10/7/2026, 2:05:15 PM - 10/7/2026, 3:44:16 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261007-140515-tef8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20261006-143028-4d5s",
       "title": "Cole Eris",
       "commanders": [
