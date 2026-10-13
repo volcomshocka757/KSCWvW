@@ -4,6 +4,52 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261013-002735-myvp",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "788A5115-7B02-EC11-81B2-A840610878B3",
+        "name": "Knights Of The Silver Challice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-10-13T04:27:35.000Z",
+      "dateEnd": "2026-10-13T04:53:49.646Z",
+      "dateLabel": "10/13/2026, 12:27:35 AM - 10/13/2026, 12:53:49 AM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261013-002735-myvp",
+      "summary": {
+        "borderlandsPct": 0.2786885245901639,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "World vs World",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20261007-225416-h7bu",
       "title": "Galthar Oneclaw",
       "commanders": [
