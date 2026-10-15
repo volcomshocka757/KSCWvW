@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261014-143920-lipn",
+      "title": "Vodral",
+      "commanders": [
+        "Vodral"
+      ],
+      "guild": {
+        "id": "8C80992A-8D59-49E7-B1F8-8E55BE8A5ABA",
+        "name": "Knights Of The Silver Chalice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-10-14T18:39:20.000Z",
+      "dateEnd": "2026-10-14T20:01:21.362Z",
+      "dateLabel": "10/14/2026, 2:39:20 PM - 10/14/2026, 4:01:21 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261014-143920-lipn",
+      "summary": {
+        "borderlandsPct": 0.4,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 4
+      }
+    },
+    {
       "id": "20261013-002735-myvp",
       "title": "Unknown Commander",
       "commanders": [],
