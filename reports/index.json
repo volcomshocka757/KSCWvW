@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261020-151946-s7tb",
+      "title": "Cole Eris",
+      "commanders": [
+        "Cole Eris"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-10-20T19:19:46.000Z",
+      "dateEnd": "2026-10-20T19:46:47.790Z",
+      "dateLabel": "10/20/2026, 3:19:46 PM - 10/20/2026, 3:46:47 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261020-151946-s7tb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 4
+      }
+    },
+    {
       "id": "20261019-230036-wh1e",
       "title": "Alfred Nobel Jr",
       "commanders": [
