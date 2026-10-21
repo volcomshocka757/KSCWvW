@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261021-154405-ix0p",
+      "title": "Vodral",
+      "commanders": [
+        "Vodral"
+      ],
+      "guild": {
+        "id": "8C80992A-8D59-49E7-B1F8-8E55BE8A5ABA",
+        "name": "Knights Of The Silver Chalice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-10-21T19:44:05.000Z",
+      "dateEnd": "2026-10-21T20:11:17.594Z",
+      "dateLabel": "10/21/2026, 3:44:05 PM - 10/21/2026, 4:11:17 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261021-154405-ix0p",
+      "summary": {
+        "borderlandsPct": 0.4,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20261020-151946-s7tb",
       "title": "Cole Eris",
       "commanders": [
