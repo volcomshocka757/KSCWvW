@@ -1,8 +1,42 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": true,
-  "glassmorphic": false,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.10"
+  },
   "entries": [
+    {
+      "id": "20261028-214504-3bfq",
+      "title": "Plurps",
+      "commanders": [
+        "Plurps"
+      ],
+      "guild": {
+        "id": "5D7F8C82-E09D-4788-82F9-41506AA6A4DD",
+        "name": "Wait What How",
+        "tag": "Hek"
+      },
+      "dateStart": "2026-10-29T01:45:04.000Z",
+      "dateEnd": "2026-10-29T02:08:28.707Z",
+      "dateLabel": "10/28/2026, 9:45:04 PM - 10/28/2026, 10:08:28 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261028-214504-3bfq",
+      "publishedBy": "volcomshocka757",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 45
+      }
+    },
     {
       "id": "20261026-203627-oigr",
       "title": "Galthar Oneclaw",
