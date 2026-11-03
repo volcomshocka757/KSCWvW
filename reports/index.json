@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261102-205400-a427",
+      "title": "Galthar Oneclaw",
+      "commanders": [
+        "Galthar Oneclaw"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-11-03T01:54:00.000Z",
+      "dateEnd": "2026-11-03T04:34:42.288Z",
+      "dateLabel": "11/2/2026, 8:54:00 PM - 11/2/2026, 11:34:42 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261102-205400-a427",
+      "publishedBy": "volcomshocka757",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20261028-214504-3bfq",
       "title": "Plurps",
       "commanders": [
