@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261103-224653-um0w",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-04T03:46:53.000Z",
+      "dateEnd": "2026-11-04T04:26:13.943Z",
+      "dateLabel": "11/3/2026, 10:46:53 PM - 11/3/2026, 11:26:13 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261103-224653-um0w",
+      "publishedBy": "volcomshocka757",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261103-141720-n4rw",
       "title": "Cole Eris",
       "commanders": [
