@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261110-210116-yg1z",
+      "title": "Vestus Lightbringer",
+      "commanders": [
+        "Vestus Lightbringer"
+      ],
+      "guild": {
+        "id": "EB6B6211-30DC-EC11-81A9-8FB5CFBE7766",
+        "name": "Knights Of The Silver Chaliice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-11-11T02:01:16.000Z",
+      "dateEnd": "2026-11-11T02:52:03.775Z",
+      "dateLabel": "11/10/2026, 9:01:16 PM - 11/10/2026, 9:52:03 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261110-210116-yg1z",
+      "publishedBy": "volcomshocka757",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261109-205155-73ox",
       "title": "Galthar Oneclaw",
       "commanders": [
