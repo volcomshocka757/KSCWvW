@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261111-141457-v4nn",
+      "title": "Cole Eris",
+      "commanders": [
+        "Cole Eris"
+      ],
+      "guild": {
+        "id": "EB6B6211-30DC-EC11-81A9-8FB5CFBE7766",
+        "name": "Knights Of The Silver Chaliice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-11-11T19:14:57.000Z",
+      "dateEnd": "2026-11-11T20:56:18.233Z",
+      "dateLabel": "11/11/2026, 2:14:57 PM - 11/11/2026, 3:56:18 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261111-141457-v4nn",
+      "publishedBy": "volcomshocka757",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20261110-210116-yg1z",
       "title": "Vestus Lightbringer",
       "commanders": [
