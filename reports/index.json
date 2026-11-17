@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261117-141003-9n0i",
+      "title": "Seth Jammer",
+      "commanders": [
+        "Seth Jammer"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-11-17T19:10:03.000Z",
+      "dateEnd": "2026-11-17T20:47:34.332Z",
+      "dateLabel": "11/17/2026, 2:10:03 PM - 11/17/2026, 3:47:34 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261117-141003-9n0i",
+      "publishedBy": "volcomshocka757",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 6,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20261113-142157-tofa",
       "title": "Vodral",
       "commanders": [
