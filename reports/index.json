@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261120-141622-ys7q",
+      "title": "Cole Eris",
+      "commanders": [
+        "Cole Eris"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-11-20T19:16:22.000Z",
+      "dateEnd": "2026-11-20T20:52:27.756Z",
+      "dateLabel": "11/20/2026, 2:16:22 PM - 11/20/2026, 3:52:27 PM",
+      "url": "https://volcomshocka757.github.io/KSCWvW/?report=20261120-141622-ys7q",
+      "publishedBy": "volcomshocka757",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20261119-140607-7lv4",
       "title": "Vodral",
       "commanders": [
